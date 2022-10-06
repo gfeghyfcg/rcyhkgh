@@ -1,4 +1,2 @@
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@172.64.89.103:443?type=ws&security=tls&path=%2Ffastssh%2Fwsgtrij%2F6330f299f342f%2F&host=ca1.vless.co&sni=ca1.vless.co#ca1.vless.co
-vless://39b2428f-dd0c-4941-8d08-edfeb4c14853@198.41.211.249:443?type=ws&security=tls&path=%2Fwebsocket&host=sg1-ctb-ws.xvless.xyz&sni=sg1-ctb-ws.xvless.xyz#sshocean-gcmirgh
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@172.64.69.212:443?type=ws&security=tls&path=%2Ffastssh%2Fugdmog%2F6330f98ccb276%2F&host=sg2.vless.co&sni=sg2.vless.co#sg2.vless.co
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@198.41.209.195:443?type=ws&security=tls&path=%2Ffastssh%2Fzglbyois%2F6330fac29a9bc%2F&host=de1.vless.co&sni=de1.vless.co#de1.vless.co
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@198.41.218.98:443?type=ws&security=tls&path=%2Ffastssh%2Frfjkcbx%2F633e20c9ae7b9%2F&host=sg2.vless.co&sni=sg2.vless.co#sg2.vless.co
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@173.245.49.120:443?type=ws&security=tls&path=%2Ffastssh%2Fbhfsth%2F633e26f24e3f2%2F&host=ca1.vless.co&sni=ca1.vless.co#ca1.vless.co
